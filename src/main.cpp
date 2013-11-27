@@ -2020,7 +2020,7 @@ bool LoadBlockIndex(bool fAllowNew)
 
         if (fTestNet)
         {
-            block.nTime    = 1300000000;
+            block.nTime    = 1385512287;
             block.nNonce   = 0;
         }
 

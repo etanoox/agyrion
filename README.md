@@ -1,3 +1,3 @@
-FooCoin (FOO)
+Agyrion (AGY)
 
 Blah, blah, blah.
